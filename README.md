@@ -4,7 +4,7 @@
 
 ### Baixando [MbCL](https://app.mbcl.ml):
 
-* Via NPM (MacOSLinux/Windows):
+* Via NPM (MacOS/Linux/Windows):
 
 ```js
 npm install -g mbcl
